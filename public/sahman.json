@@ -1,0 +1,557 @@
+[
+  {
+    "id": 1,
+    "name": "Late night dancing",
+    "description": "Dabo",
+    "technique": "Acrylic on canvas",
+    "price": 300,
+    "dimension": "500 x 400",
+    "photo": "art1.jpg"
+  },
+
+  {
+    "id": 3,
+    "name": "Picking apples",
+    "description": "Artist Name 3",
+    "technique": "Acrylic on canvas",
+    "price": 1000,
+    "dimension": "880 x 1300 ",
+    "photo": "art3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Joyful movement",
+    "description": "Artist Name 4",
+    "technique": "Acrylic on canvas",
+    "price": 500,
+    "dimension": "660 x 960 ",
+    "photo": "art4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Growths band",
+    "description": "Artist Name 5",
+    "technique": "Acrylic on canvas",
+    "price": 300,
+    "dimension": "520 x 620 ",
+    "photo": "art5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Hello world",
+    "description": "Artist Name 6",
+    "technique": "Acrylic on canvas",
+    "price": 350,
+    "dimension": "960 x 660",
+    "photo": "art6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "A look at yesterday",
+    "description": "Artist Name 7",
+    "technique": "Ink drawing",
+    "price": 1000,
+    "dimension": "1420 x 1100",
+    "photo": "art7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Red dragon",
+    "description": "Artist Name 8",
+    "technique": "Acrylic on canvas",
+    "price": 1000,
+    "dimension": "1860 x 1220",
+    "photo": "art8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Monsters",
+    "description": "Artist",
+    "technique": "Acrylic on canvas",
+    "price": 1000,
+    "dimension": "1700 x 1080",
+    "photo": "art9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Desolate garden",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on canvas",
+    "price": 1000,
+    "dimension": "1420 x 1120",
+    "photo": "art10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Retaliation",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on canvas",
+    "price": 1000,
+    "dimension": "2100 x 1340",
+    "photo": "art11.jpg"
+  },
+
+  {
+    "id": 12,
+    "name": "Horse and bird `Beast`",
+    "description": "Artist Name 9",
+    "technique": "Oil on canvas",
+    "price": "200",
+    "dimension": "400 x 500",
+    "photo": "art13.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Portrait of Mrs. Alonso",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on steel",
+    "price": 150,
+    "dimension": "200 x 320",
+    "photo": "art14.jpg"
+  },
+  {
+    "id": 14,
+    "name": "We drove by Japanese flag",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on canvas",
+    "price": 250,
+    "dimension": "500 x 700",
+    "photo": "art15.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Cat and tenk",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on wood",
+    "price": 500,
+    "dimension": "400 x 600",
+    "photo": "art16.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Portrait",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on canvas",
+    "price": 100,
+    "dimension": "500 x 400",
+    "photo": "art17.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Meeting",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on canvas",
+    "price": 125,
+    "dimension": "500 x 400",
+    "photo": "art18.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Japanese ship",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on canvas",
+    "price": 500,
+    "dimension": "700 x 1000",
+    "photo": "art19.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Pomegranate",
+    "description": "Artist Name 9",
+    "technique": "Oil on canvas",
+    "price": 100,
+    "dimension": "400 x 300",
+    "photo": "art20.jpg"
+  },
+  {
+    "id": 20,
+    "name": "I am leaving with bird",
+    "description": "Artist Name 9",
+    "technique": "Oil on canvas",
+    "price": 200,
+    "dimension": "400 x 500",
+    "photo": "art21.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Latin cupria",
+    "description": "Artist Name 9",
+    "technique": "Oil on canvas",
+    "price": 300,
+    "dimension": "400 x 500",
+    "photo": "art22.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Sebilj",
+    "description": "Artist Name 9",
+    "technique": "Oil on canvas",
+    "price": 200,
+    "dimension": "500 x 400",
+    "photo": "art23.jpg"
+  },
+
+  {
+    "id": 23,
+    "name": "Madars welcome refugees",
+    "description": "Artist Name 9",
+    "technique": "Combination",
+    "price": 150,
+    "dimension": "350  x 500 ",
+    "photo": "art27.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Sharp Hill",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on canvas",
+    "price": 150,
+    "dimension": "400 x 450",
+    "photo": "art28.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Fisherman",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on canvas",
+    "price": 120,
+    "dimension": "300 x 300",
+    "photo": "art29.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Landscape",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on steel",
+    "price": 200,
+    "dimension": "400 x 520",
+    "photo": "art30.jpg"
+  },
+  {
+    "id": 27,
+    "name": "House in Bistrik",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on cardboard",
+    "price": 150,
+    "dimension": "400 x 300",
+    "photo": "art31.jpg"
+  },
+  {
+    "id": 28,
+    "name": "On beach",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on canvas",
+    "price": 150,
+    "dimension": "500 x 650",
+    "photo": "art32.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Fishing on sea",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on canvas",
+    "price": 200,
+    "dimension": "400 x 400",
+    "photo": "art33.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Her first bike",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on canvas",
+    "price": 200,
+    "dimension": "400 x 500",
+    "photo": "art34.jpg"
+  },
+  {
+    "id": 31,
+    "name": "A tree by the road",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on canvas",
+    "price": 150,
+    "dimension": "450 x 650",
+    "photo": "art35.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Lukomir",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on canvas",
+    "price": 200,
+    "dimension": "450 x 530",
+    "photo": "art36.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Friendship without end",
+    "description": "Artist Name 9",
+    "technique": "Oil on canvas",
+    "price": 150,
+    "dimension": "300 x 400",
+    "photo": "art37.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Gornja Vrbica",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on canvas",
+    "price": 300,
+    "dimension": "450 x 650",
+    "photo": "art38.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Bird conversation",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on canvas",
+    "price": 200,
+    "dimension": "400 x 500",
+    "photo": "art39.jpg"
+  },
+  {
+    "id": 36,
+    "name": "I am looking at you",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on canvas",
+    "price": 750,
+    "dimension": "700 x 1000",
+    "photo": "art40.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Thiefs in action",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on canvas",
+    "price": 200,
+    "dimension": "200",
+    "photo": "art41.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Saying hello to ballons",
+    "description": "Saying hello to ballons",
+    "technique": "Acrylic on canvas",
+    "price": 200,
+    "dimension": "520 x 650",
+    "photo": "art42.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Hiding",
+    "description": "Saying hello to ballons",
+    "technique": "Acrylic on canvas",
+    "price": 200,
+    "dimension": "650 x 750",
+    "photo": "art43.jpg"
+  },
+  {
+    "id": 40,
+    "name": "No interested in football",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on steel",
+    "price": 200,
+    "dimension": "450 x 550",
+    "photo": "art44.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Srebrenica inferno",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on canvas",
+    "price": 200,
+    "dimension": "400 x 500",
+    "photo": "art45.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Cyclist crosses the bridge",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on canvas",
+    "price": 250,
+    "dimension": "Gallery I",
+    "photo": "art46.jpg"
+  },
+
+  {
+    "id": 43,
+    "name": "What`s that?",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on steel",
+    "price": 50,
+    "dimension": "150 x 250",
+    "photo": "art48.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Blue-eyed musician",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on canvas",
+    "price": 500,
+    "dimension": "720 x 1200",
+    "photo": "art49.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Saxophonist",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on canvas",
+    "price": 300,
+    "dimension": "770 x 440",
+    "photo": "art50.jpg"
+  },
+  {
+    "id": 45,
+    "name": "A violinist",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on canvas",
+    "price": 300,
+    "dimension": "800 x 425",
+    "photo": "art51.jpg"
+  },
+  {
+    "id": 46,
+    "name": "Boring 3",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on canvas",
+    "price": 300,
+    "dimension": "570 x 730",
+    "photo": "art52.jpg"
+  },
+  {
+    "id": 47,
+    "name": "We practice handstand",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on canvas",
+    "price": 300,
+    "dimension": "850 x 850",
+    "photo": "art53.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Flute guy",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on canvas",
+    "price": 300,
+    "dimension": "720 x 450",
+    "photo": "art54.jpg"
+  },
+  {
+    "id": 49,
+    "name": "Lion from circus",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on steel",
+    "price": 200,
+    "dimension": "350 x 550",
+    "photo": "art55.jpg"
+  },
+  {
+    "id": 50,
+    "name": "In the park with the cat",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on canvas",
+    "price": 200,
+    "dimension": "550 x 750",
+    "photo": "art56.jpg"
+  },
+  {
+    "id": 51,
+    "name": "Pacman in color",
+    "description": "Artist Name 9",
+    "technique": "Combination",
+    "price": 100,
+    "dimension": "300 x 400",
+    "photo": "art57.jpg"
+  },
+  {
+    "id": 52,
+    "name": "The black-haired ruler",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on canvas",
+    "price": 300,
+    "dimension": "650 x 850",
+    "photo": "art58.jpg"
+  },
+  {
+    "id": 53,
+    "name": "I am little distracted",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on canvas",
+    "price": 300,
+    "dimension": "550 x 600",
+    "photo": "art59.jpg"
+  },
+  {
+    "id": 53,
+    "name": "Horse got crazy",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on canvas",
+    "price": 300,
+    "dimension": "600 x 650",
+    "photo": "art60.jpg"
+  },
+  {
+    "id": 54,
+    "name": "Warrior",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on canvas",
+    "price": 300,
+    "dimension": "680 x 650",
+    "photo": "art61.jpg"
+  },
+  {
+    "id": 55,
+    "name": "Chicken",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on canvas",
+    "price": 250,
+    "dimension": "400 x 580",
+    "photo": "art62.jpg"
+  },
+  {
+    "id": 56,
+    "name": "Bless",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on canvas",
+    "price": 400,
+    "dimension": "740 x 780",
+    "photo": "art63.jpg"
+  },
+  {
+    "id": 57,
+    "name": "What`s this?",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on canvas",
+    "price": 300,
+    "dimension": "700 x 900",
+    "photo": "art64.jpg"
+  },
+  {
+    "id": 58,
+    "name": "A fairy tale",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on canvas",
+    "price": 300,
+    "dimension": "490 x 650",
+    "photo": "art65.jpg"
+  },
+
+  {
+    "id": 59,
+    "name": "11.07.`95",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on canvas",
+    "price": 300,
+    "dimension": "530 x 730",
+    "photo": "art68.jpg"
+  },
+
+  {
+    "id": 60,
+    "name": "Freemasons",
+    "description": "Artist Name 9",
+    "technique": "Acrylic on canvas",
+    "price": 300,
+    "dimension": "630 x 740",
+    "photo": "art70.jpg"
+  }
+]

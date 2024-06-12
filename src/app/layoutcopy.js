@@ -1,7 +1,6 @@
-import React from "react";
-import { CartProvider } from "./CartContext";
 import { Inter } from "next/font/google";
 import "./globals.css";
+import Link from "next/link";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -15,7 +14,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className={inter.className}>
         <div className="flex justify-between  top-0 left-0 right-0  h-16 p-5 fixed z-10"></div>
-        <CartProvider>{children}</CartProvider>
+        {children}
       </body>
     </html>
   );

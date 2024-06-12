@@ -19,15 +19,13 @@ function Page() {
           <Quotes />
         </div>
         <div className="text-white text-center ">
-          <div className="my-20 lg:m-28  ">
+          <div className="mb-20 lg:m-28 md:mt-20">
             <Links />
+
+            <Socials />
+
+            <Copyright />
           </div>
-        </div>
-        <div className="">
-          <Socials />
-        </div>
-        <div className="">
-          <Copyright />
         </div>
       </ul>
     </div>
