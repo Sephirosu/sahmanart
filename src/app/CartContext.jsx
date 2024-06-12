@@ -5,12 +5,17 @@ const CartContext = createContext();
 
 const CartProvider = ({ children }) => {
   const [cartItems, setCartItems] = useState(() => {
-    const savedCartItems = localStorage.getItem("cartItems");
-    return savedCartItems ? JSON.parse(savedCartItems) : [];
+    if (typeof window !== "undefined") {
+      const savedCartItems = localStorage.getItem("cartItems");
+      return savedCartItems ? JSON.parse(savedCartItems) : [];
+    }
+    return [];
   });
 
   useEffect(() => {
-    localStorage.setItem("cartItems", JSON.stringify(cartItems));
+    if (typeof window !== "undefined") {
+      localStorage.setItem("cartItems", JSON.stringify(cartItems));
+    }
   }, [cartItems]);
 
   return (
